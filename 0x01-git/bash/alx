@@ -1,6 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
+
 echo "ALX School is the best!"
-=======
-echo "ALX"
->>>>>>> update_script
+
+echo "The school is open!"
+
